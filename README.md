@@ -2,13 +2,14 @@
 
 - 🔭 I’m currently working on technical high school 
  - Sou professor de ensino médio técnico de informática e redes, estudioso da bíblia e de tecnologia.
- - Visite: [Redes Mediotec](https://sites.google.com/site/redesmediotec/) - disciplinas de minhas aulas do ensino médio técnico em informática e redes.
+ - Visite: [Redes Mediotec](https://aulas.jocile.com) - disciplinas de minhas aulas do ensino médio técnico em informática e redes.
 - 🌱 I’m currently teaching software lab and computer network
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=jocile&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jocile/github-readme-stats)
 
 ---
   
+- [jocile.com - Meu site com notas de aulas](https://jocile.com)
 - Meu [instagram](https://www.instagram.com/jocileserra/).
 - Meu [Facebook](https://www.facebook.com/jocile.serra).
 - Meu Currículo no [Linkedin](https://www.linkedin.com/in/jocil%C3%A9-serra-56298838/).
