@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on technical high school;
-- 🌱 I’m currently teaching software lab, sistems operationals and computer network
+- 🌱 I’m currently teaching software lab, Operating systems and computer networks;
 - Sou professor de computação em escolas técnicas: [EEEP](https://aulas.jocile.com/), [Senac](https://senac.jocile.com/).
 - Atualmente buscando conhecimentos nos cursos [DIO](https://www.dio.me/) e [DevSuperior](https://devsuperior.com.br/)
 
