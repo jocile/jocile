@@ -7,10 +7,11 @@
 - 🔭 I’m currently working on technical high school;
 - 🌱 I’m currently teaching software lab, sistems operationals and computer network
 - Sou professor de computação em escolas técnicas: [EEEP](https://aulas.jocile.com/), [Senac](https://senac.jocile.com/).
+- Atualmente buscando conhecimentos nos cursos [DIO](https://www.dio.me/) e [DevSuperior](https://devsuperior.com.br/)
 
 ## Atividades
 
-![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=jocile&show_icons=true&theme=cobalt)
+![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=jocile&show_icons=true&theme=cobalt&hide=contribs)
 
 ## Linguagens
 
@@ -24,9 +25,6 @@
   <a href=""https://www.linkedin.com/in/jocil%C3%A9-serra-56298838/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="50" width="60">
   </a>
-
-[jocile.com](https://jocile.com)
-
 </div>
 
 <!--
