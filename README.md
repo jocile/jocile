@@ -12,12 +12,13 @@
   <a href="https://github.com/jocile">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=jocile&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocile&layout=compact&langs_count=7"/>
-
+  </a>
+  
 </div>
 
 ---
 
-##  Technologies I'm Studying  
+## Technologies I'm Studying  
   
 <div style="display: inline_block"><br>
 <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
