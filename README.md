@@ -32,6 +32,7 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 ## Contatos
 
 <div>
+
 <a href="https://www.instagram.com/jocileserra" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -50,7 +51,6 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 
 ## Links
 
-
 <a href="https://jocile.com" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white target="_blank">
 </a>
@@ -65,7 +65,6 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 </a>
 
 - [Arquivos de aulas dos cursos técnicos em Redes de computadores e Informática](https://aulas.jocile.com/)
-
 - [Notas da Computação](https://sites.google.com/a/cienciasdacomputacao.org/jocile/Home) com matérias sobre Ciências da Computação
 - [Estudos teológicos](https://jocile.com/teologia/)
 
