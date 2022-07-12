@@ -52,7 +52,7 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 ## Links
 
 <a href="https://jocile.com" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 </a>
 <a href="https://github.com/jocile" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
