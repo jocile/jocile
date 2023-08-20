@@ -2,7 +2,7 @@
 
 ## Olá 👋
 
-- 🔭 Atualmente estou trabalhando como instrutor de informática e dsenvolvimento de Sistemas
+- 🔭 Atualmente estou trabalhando como instrutor de informática e desenvolvimento de Sistemas
 - 🌱 Atualmente estou lecionando programação Web, desenvolvimento de sistemas, assistente de TI, informática básica no [SENAC CE](https://www.ce.senac.br/);
 - 🤔 Atualmente estou buscando conhecimento em cursos [DIO](https://www.dio.me/) e [Bootcamp SpringBoot DevSuperior](https://github.com/jocile/catalog).
 - 😄 Pronomes: (Ele/Dele)
@@ -36,7 +36,7 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 <a href="https://www.instagram.com/jocileserra" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/jocil%C3%A9-serra-56298838" target="_blank">
+  <a href="https://www.linkedin.com/in/jocileserra/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/jocileserra" target="_blank">
