@@ -2,8 +2,8 @@
 
 ## Olá 👋
 
-- 🔭 Atualmente estou trabalhando como professor no ensino médio técnico
-- 🌱 Atualmente estou lecionando laboratório de software, Sistemas operacionais e redes de computadores, veja os materiais em [EEEP](https://aulas.jocile.com/);
+- 🔭 Atualmente estou trabalhando como instrutor de informática e dsenvolvimento de Sistemas
+- 🌱 Atualmente estou lecionando programação Web, desenvolvimento de sistemas, assistente de TI, informática básica no [SENAC CE](https://www.ce.senac.br/);
 - 🤔 Atualmente estou buscando conhecimento em cursos [DIO](https://www.dio.me/) e [Bootcamp SpringBoot DevSuperior](https://github.com/jocile/catalog).
 - 😄 Pronomes: (Ele/Dele)
 
