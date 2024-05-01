@@ -1,4 +1,4 @@
-![Aulas](https://jocile.com/oldsite/assets/img/aula.jpeg)
+![Aulas](aula.jpeg)
 
 ## Olá 👋
 
@@ -9,7 +9,7 @@
 
 ## Atividades
 
-Meu nome é Jocilé M. Serra e trabalho como professor👨‍🏫 de computação em Escolas Profissionais ([EEEP](https://www.ceara.gov.br/2018/03/16/ceara-comemora-10-anos-das-escolas-estaduais-de-educacao-profissional/)) desde 2018, ministrando [aulas nos cursos técnicos em Redes de computadores e Informática](https://aulas.jocile.com/), e também como [instrutor de informática](https://senac.jocile.com/) no [SENAC](https://cursos.ce.senac.br/) ministrando sobre sistemas operacionais e pacote office, e tenho me aventurado em desenvolvimento de sistemas.
+Meu nome é Jocilé M. Serra com experiência em ensino 👨‍🏫 de computação em Escolas Profissionais ([EEEP](https://www.ceara.gov.br/2018/03/16/ceara-comemora-10-anos-das-escolas-estaduais-de-educacao-profissional/)) desde 2018, ministrando [aulas nos cursos técnicos em Redes de computadores e Informática](https://aulas.jocile.com/), e também como [instrutor de informática](https://senac.jocile.com/) no [SENAC](https://cursos.ce.senac.br/) ministrando sobre sistemas operacionais e pacote office, e tenho me aventurado em desenvolvimento de sistemas.
 
 Sempre me interessei muito por tecnologia e acabei encontrando a área quando cursava a escola técnica de [eletroeletrônica](https://www.centec.org.br/cursos-tecnicos-nivel-medio/), o que me levou a me aprofundar mais e me tornar bacharel🎓 em [Ciências da Computação](https://www.uva.br/content/ciencias-da-computacao) 👨‍💻, atualmente estou concluindo a [especialização em Redes de Computadores e Segurança de Sistemas](https://uninta.edu.br/site/pos-graduacao/ciencias-exatas/especializacao-em-redes-e-seguranca-de-sistemas/), e o [Bootcamp Spring React na Devsuperior](https://devsuperior.com.br/), além de inúmeros cursos na [Digital Inovation One](https://digitalinnovation.one/).
 
@@ -67,5 +67,7 @@ Fora da bolha tecnológica gosto de brincar com meus filhos e [estudar a Bíblia
 - [Arquivos de aulas dos cursos técnicos em Redes de computadores e Informática](https://aulas.jocile.com/)
 - [Notas da Computação](https://sites.google.com/a/cienciasdacomputacao.org/jocile/Home) com matérias sobre Ciências da Computação
 - [Estudos teológicos](https://jocile.com/teologia/)
+- [Site de notas de aulas](https://jocile.com)
+- [Projetos](https://jocile.com/site/projetos/)
 
 ---
